@@ -1,0 +1,6 @@
+--lang=de
+--lang=en
+--lang=es
+--lang=nl
+--lang=dk
+--lang=sv
